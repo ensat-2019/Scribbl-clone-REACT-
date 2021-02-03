@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Hanalei&family=Pacifico&family=Potta+One&display=swap');
+.card {
+    width:400px;
+    height:280px;
+  
+}
+.form-group{
+ margin-left:100px;
+ margin-top: 10px;
+}
+.form-group1{
+    margin-left:100px;
+    margin-top: 30px;  
+}
+
+.Box{
+    
+    background-image: url('https://store-images.s-microsoft.com/image/apps.26109.67368895434821975.d98805c0-5b13-4b89-9b73-13de196b1295.823a4e6d-c6de-4ce2-8231-3c32ce26cbfe?mode=scale&q=90&h=1080&w=1920');
+}
+.Btn{
+    background-color:#7e6a5e;
+}
+.Text{
+    
+    color:#e56a26;
+    font-family: 'Caveat', cursive;
+}

@@ -1,0 +1,28 @@
+.heading{
+
+    margin-left:550px;
+}
+.Users{
+    background-color: white;
+    width :1000px;
+    height:550px;
+    margin-top:50px;
+    box-shadow: -2px -1px 43px 4px rgba(0,0,0,0.75);
+   -webkit-box-shadow: -2px -1px 43px 4px rgba(0,0,0,0.75);
+   -moz-box-shadow: -2px -1px 43px 4px rgba(0,0,0,0.75);
+    border :1px rgb(112, 112, 112);
+    opacity: 0.6;
+    text-align: center;
+    position:center;
+    margin-left: 275px;
+
+}
+.playButton{
+    padding-left: 3rem;
+    padding-right:3rem;
+    border: 0.5rem solid rebeccapurple; 
+    border-radius: 0.3rem;
+    font-size: 1.5rem;
+    background: rebeccapurple;
+    color: white;
+}
